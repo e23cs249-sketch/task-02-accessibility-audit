@@ -10,7 +10,7 @@ documentation, tests, and accessibility audit evidence organized in one
 repository.
 
 ## Repository Structure
-
+```
 task-02-accessibility-audit/
 ├── client/
 │   ├── src/
@@ -24,7 +24,7 @@ task-02-accessibility-audit/
 │   ├── screenshots/
 │   └── accessibility-audit.csv
 └── README.md
-
+```
 
 ## Architecture Boundaries
 
